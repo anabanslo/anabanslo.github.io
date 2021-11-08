@@ -112,7 +112,7 @@ section {
 }
 
 .skills {
-  background: url(header-background.jpg) center;
+  background: url(header-background2.jpg) center;
   background-size: cover;
   color: white;
   text-align: center;
@@ -149,7 +149,7 @@ section {
 
 /* projects */
 .projects ul li {
-  background: url(project.jpg) center;
+  background: url(project1.jpg) center;
   background-size: cover;
   list-style: none;
   height: 300px;
